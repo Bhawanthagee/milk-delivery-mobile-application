@@ -1,4 +1,4 @@
-# noyan_app
+# Delivary app
 
 A new Flutter application.
 
