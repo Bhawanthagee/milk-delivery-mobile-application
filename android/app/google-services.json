@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "458172827930",
+    "project_id": "milkpanda-35e6c",
+    "storage_bucket": "milkpanda-35e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458172827930:android:53f8f85aa2d8d62597c4a3",
+        "android_client_info": {
+          "package_name": "Milkpanda.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458172827930-93a6pkr314u85hmm2292johg5f0msi27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyAOq0ZFX6b2mGCWK7-54MYYotE5F6VsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458172827930-93a6pkr314u85hmm2292johg5f0msi27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458172827930:android:6479bc63ff636b7097c4a3",
+        "android_client_info": {
+          "package_name": "com.noyan.noyan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458172827930-93a6pkr314u85hmm2292johg5f0msi27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyAOq0ZFX6b2mGCWK7-54MYYotE5F6VsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458172827930-93a6pkr314u85hmm2292johg5f0msi27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
