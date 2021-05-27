@@ -4,8 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-flutter milk delivery application with Razozpay payment gate and google map
+This project is a starting point for a Flutter application. \n
+flutter milk delivery application with Razozpay payment gate and google map with google firebase
 
 A few resources to get you started if this is your first Flutter project:
 
